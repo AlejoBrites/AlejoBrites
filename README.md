@@ -48,8 +48,4 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 Estadísticas
-<div>
-  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=AlejoBrites&show_icons=true&theme=dracula&hide_border=true" />
-  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejoBrites&theme=dracula&layout=donut&hide_border=true" />
-</div>
+
