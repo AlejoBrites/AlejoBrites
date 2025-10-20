@@ -10,7 +10,7 @@
 
 ---
 ## 👨🏻‍💻 Sobre Mí
-- Desarrollador Web Full Stack
+- Desarrollador Full Stack | Analista de sistemas
 - Estudiante Licenciatura en Sistemas - Universidad Nacional de Lanús (UNLa)
   
 ## Redes Sociales
